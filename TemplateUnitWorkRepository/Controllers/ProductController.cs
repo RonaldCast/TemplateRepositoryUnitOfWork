@@ -6,6 +6,7 @@ using AutoMapper;
 using DomainModel.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using ServiceLayer.Contracts;
 using TemplateUnitWorkRepository.DTO;
 
@@ -17,10 +18,12 @@ namespace TemplateUnitWorkRepository.Controllers
     {
         private readonly IProductSL _slProduct; 
         private readonly IMapper _mapper;
-        public ProductController(IProductSL product, IMapper mapper)
+        private readonly ILogger<ProductController> _logger;
+        public ProductController(IProductSL product, IMapper mapper, ILogger<ProductController> logger)
         {
             _slProduct = product;
             _mapper = mapper;
+            _logger = logger;
         }
 
 
@@ -33,6 +36,7 @@ namespace TemplateUnitWorkRepository.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<DTOProduct>>> Get()
         {
+            _logger.LogInformation("SelectProducto");
             var products = await _slProduct.GetProductsAsync();
             return  Ok(_mapper.Map<IEnumerable<Product>, IEnumerable<DTOProduct>>(products));
         }
@@ -53,7 +57,7 @@ namespace TemplateUnitWorkRepository.Controllers
             var newProduct = _mapper.Map<Product>(product);
              await _slProduct.AddProductAsync(newProduct);
 
-            return Ok(new { Response = "Usuario agregado" });
+            return Ok(new { Response = "El producto se ha agregado correctamente" });
 
         }
 

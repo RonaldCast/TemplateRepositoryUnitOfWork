@@ -68,10 +68,12 @@ namespace TemplateUnitWorkRepository
                 };
             });
 
+           
+
 
         }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
         {
             if (env.IsDevelopment())
             {
@@ -88,9 +90,10 @@ namespace TemplateUnitWorkRepository
             {
                 endpoints.MapControllers();
             });
+            //configuration logger
+            loggerFactory.AddFile(Configuration["Logging:PathFormat"]);
 
             //Add swagger for UI
-
             app.UseOpenApi();
             app.UseSwaggerUi3();
         }

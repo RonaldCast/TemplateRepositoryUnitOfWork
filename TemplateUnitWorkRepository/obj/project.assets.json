@@ -10043,6 +10043,7 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 7.0.0",
       "DomainModel >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.1",
+      "Microsoft.Extensions.Logging >= 3.1.1",
       "Microsoft.Extensions.Logging.Debug >= 3.1.1",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.0",
       "NSwag.AspNetCore >= 13.2.2",
@@ -10113,6 +10114,10 @@
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.1.1, )"
+          },
+          "Microsoft.Extensions.Logging": {
             "target": "Package",
             "version": "[3.1.1, )"
           },

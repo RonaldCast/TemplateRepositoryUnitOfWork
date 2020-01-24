@@ -1,4 +1,5 @@
 ﻿using DomainModel.Models;
+using Microsoft.Extensions.Logging;
 using Persistence.UnitOfWork;
 using ServiceLayer.Contracts;
 using System;
@@ -12,9 +13,11 @@ namespace ServiceLayer
    public class ProductSL : IProductSL
     {
         private readonly IUnitOfWork uow;
-        public ProductSL(IUnitOfWork uow)
+        private readonly ILogger<ProductSL> _logger;
+        public ProductSL(IUnitOfWork uow, ILogger<ProductSL> logger)
         {
             this.uow = uow;
+            _logger = logger;
         }
 
         public async Task<int> AddProductAsync(Product product)
@@ -62,12 +65,13 @@ namespace ServiceLayer
 
         public async Task<IEnumerable<Product>> GetProductsAsync()
         {
-
+            _logger.LogInformation("Into the productSL");
             return await uow.Product.GetProductsAsync();
         }
 
         public IEnumerable<Product> GetUserProducts(long userId)
         {
+            
             if (userId <= default(int))
                 throw new ArgumentException("Invalid user id");
 
