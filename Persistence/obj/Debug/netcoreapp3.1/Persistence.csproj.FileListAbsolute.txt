@@ -9,3 +9,14 @@
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\DomainModel.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\DomainModel.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb

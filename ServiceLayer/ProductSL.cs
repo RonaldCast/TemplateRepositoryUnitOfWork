@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace ServiceLayer
 {
@@ -16,11 +17,11 @@ namespace ServiceLayer
             this.uow = uow;
         }
 
-        public void AddProduct(Product product)
+        public async Task<int> AddProductAsync(Product product)
         {
             
-            uow.Product.AddProduct(product);
-            uow.Save();
+            await uow.Product.AddProductAsync(product);
+           return await uow.SaveAsync();
         }
 
         public bool AddProductToUser(long userId, long productId)
@@ -59,10 +60,10 @@ namespace ServiceLayer
             return isremoved;
         }
 
-        public IEnumerable<Product> GetProducts()
+        public async Task<IEnumerable<Product>> GetProductsAsync()
         {
 
-            return uow.Product.GetProducts();
+            return await uow.Product.GetProductsAsync();
         }
 
         public IEnumerable<Product> GetUserProducts(long userId)
@@ -88,7 +89,7 @@ namespace ServiceLayer
                 {
                     Name = product.Name
                 };
-                uow.Product.AddProduct(_product);
+                uow.Product.AddProductAsync(_product);
             }
             else
             {

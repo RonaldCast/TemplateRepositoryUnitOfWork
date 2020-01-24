@@ -11,3 +11,16 @@
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\DomainModel.pdb
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\Persistence.pdb
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\DomainModel.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\Persistence.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\DomainModel.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\bin\Debug\netcoreapp3.1\Persistence.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb

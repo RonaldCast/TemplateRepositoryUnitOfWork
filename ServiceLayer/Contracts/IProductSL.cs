@@ -2,14 +2,15 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace ServiceLayer.Contracts
 {
     public interface IProductSL
     {
-        void AddProduct(Product product);
+        Task<int> AddProductAsync(Product product);
         Product UpsertProduct(Product product);
-        IEnumerable<Product> GetProducts();
+        Task<IEnumerable<Product>> GetProductsAsync();
         bool DeleteProduct(long productId);
         IEnumerable<Product> GetUserProducts(long userId);
         bool AddProductToUser(long userId, long productId);

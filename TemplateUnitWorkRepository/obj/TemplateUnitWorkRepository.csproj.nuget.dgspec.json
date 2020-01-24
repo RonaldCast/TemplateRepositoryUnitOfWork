@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj",
         "projectName": "DomainModel",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj",
         "packagesPath": "C:\\Users\\ronaldcastillo\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\ronaldcastillo\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -107,8 +107,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj"
+              "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\ronaldcastillo\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -166,11 +166,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj"
+              "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj"
               },
-              "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj"
+              "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository.csproj",
         "projectName": "TemplateUnitWorkRepository",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository.csproj",
         "packagesPath": "C:\\Users\\ronaldcastillo\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\TemplateUnitWorkRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -228,14 +228,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj"
+              "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj"
               },
-              "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj"
+              "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj"
               },
-              "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj"
+              "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj"
               }
             }
           }
@@ -270,6 +270,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.2.2, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[1.1.0, )"
             }
           },
           "imports": [

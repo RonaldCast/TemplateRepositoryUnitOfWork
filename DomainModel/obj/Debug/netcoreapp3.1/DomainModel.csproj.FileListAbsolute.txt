@@ -7,3 +7,12 @@
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
 \\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.runtimeconfig.json
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb

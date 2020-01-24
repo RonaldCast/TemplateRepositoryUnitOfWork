@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Persistence
 {
@@ -18,9 +19,9 @@ namespace Persistence
             this._dbContext = dbContext;
         }
 
-        public void AddProduct(Product product)
+        public async Task AddProductAsync(Product product)
         {
-            _dbContext.Product.Add(product);
+              await _dbContext.Product.AddAsync(product);
         }
 
         public void AddProductToUser(long userId, long productId)
@@ -50,9 +51,9 @@ namespace Persistence
             return _dbContext.Product.Where(p => p.Id == id).FirstOrDefault();
         }
 
-        public IEnumerable<Product> GetProducts()
+        public async Task<IEnumerable<Product>> GetProductsAsync()
         {
-            return _dbContext.Product;
+            return  await _dbContext.Product.ToListAsync();
         }
 
         public IEnumerable<Product> GetUserProducts(long userId)

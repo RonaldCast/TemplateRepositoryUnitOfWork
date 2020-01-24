@@ -4969,11 +4969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj",
       "projectName": "ServiceLayer",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\ServiceLayer.csproj",
       "packagesPath": "C:\\Users\\ronaldcastillo\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\ServiceLayer\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\ServiceLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4992,11 +4992,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj"
+            "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj"
             },
-            "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj"
+            "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\Persistence\\Persistence.csproj"
             }
           }
         }

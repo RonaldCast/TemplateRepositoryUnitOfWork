@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj",
         "projectName": "DomainModel",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\DomainModel.csproj",
         "packagesPath": "C:\\Users\\ronaldcastillo\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\TemplateUnitWorkRepository\\DomainModel\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Doc\\Project Code\\TemplateUnitWorkRepository\\DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

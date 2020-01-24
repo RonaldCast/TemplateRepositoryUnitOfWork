@@ -23,11 +23,18 @@ namespace TemplateUnitWorkRepository.Controllers
             _mapper = mapper;
         }
 
+
+        /// <summary>
+        /// Return list of product
+        /// </summary>
+        /// <returns></returns>
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         [HttpGet]
-        public IEnumerable<DTOProduct> Get()
+        public async Task<ActionResult<IEnumerable<DTOProduct>>> Get()
         {
-            var products = _slProduct.GetProducts();
-            return _mapper.Map<IEnumerable<Product>, IEnumerable<DTOProduct>>(products);
+            var products = await _slProduct.GetProductsAsync();
+            return  Ok(_mapper.Map<IEnumerable<Product>, IEnumerable<DTOProduct>>(products));
         }
 
         // GET: api/Product/5
@@ -40,20 +47,15 @@ namespace TemplateUnitWorkRepository.Controllers
 
         // POST: api/Product
         [HttpPost]
-        public ActionResult<DTOProduct> Post([FromBody] DTOProduct product)
+        public async Task<ActionResult<DTOProduct>> Post([FromBody] DTOProduct product)
         {
 
             var newProduct = _mapper.Map<Product>(product);
-            _slProduct.AddProduct(newProduct);
+             await _slProduct.AddProductAsync(newProduct);
 
-            return Ok(new { message = "Hola" });
+            return Ok(new { Response = "Usuario agregado" });
 
         }
 
-        // DELETE: api/ApiWithActions/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }

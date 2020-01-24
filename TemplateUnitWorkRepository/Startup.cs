@@ -14,9 +14,11 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Persistence.UnitOfWork;
 using ServiceLayer;
+using NSwag;
 using ServiceLayer.Contracts;
 using AutoMapper;
 using TemplateUnitWorkRepository.Mapper;
+using NSwag.Generation.Processors.Security;
 
 namespace TemplateUnitWorkRepository
 {
@@ -46,10 +48,29 @@ namespace TemplateUnitWorkRepository
 
             // inject auto mapper
             services.AddAutoMapper(typeof(Startup));
-         
+
+            //configuration Swagger
+            services.AddSwaggerDocument(config =>
+            {
+                config.PostProcess = document =>
+                {
+                    document.Info.Version = "v1";
+                    document.Info.Title = "Template API ";
+                    document.Info.Description = "Template API with Repository and unit of work";
+                    document.Info.TermsOfService = "None";
+                    document.Info.Contact = new NSwag.OpenApiContact
+                    {
+                        Name = "Ronald Castillo",
+                        Email = "ronaldcastillo789@gmail.com",
+                        Url = "ronaldCastcode.com"
+                    };
+                   
+                };
+            });
+
+
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -67,6 +88,11 @@ namespace TemplateUnitWorkRepository
             {
                 endpoints.MapControllers();
             });
+
+            //Add swagger for UI
+
+            app.UseOpenApi();
+            app.UseSwaggerUi3();
         }
     }
 }
