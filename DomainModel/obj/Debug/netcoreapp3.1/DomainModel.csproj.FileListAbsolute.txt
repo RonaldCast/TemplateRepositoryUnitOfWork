@@ -16,3 +16,4 @@
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache

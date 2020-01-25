@@ -51,13 +51,21 @@ namespace TemplateUnitWorkRepository.Controllers
 
         // POST: api/Product
         [HttpPost]
-        public async Task<ActionResult<DTOProduct>> Post([FromBody] DTOProduct product)
+        public async Task<ActionResult> Post([FromBody] DTOProduct product)
         {
 
+            
             var newProduct = _mapper.Map<Product>(product);
-             await _slProduct.AddProductAsync(newProduct);
+            int isCreated =  await _slProduct.AddProductAsync(newProduct);
 
-            return Ok(new { Response = "El producto se ha agregado correctamente" });
+            if (isCreated == 0)
+            {
+                return BadRequest(); 
+            }
+            else
+            {
+                return StatusCode(203, new { Response = "El producto se ha agregado correctamente" });
+            }
 
         }
 
