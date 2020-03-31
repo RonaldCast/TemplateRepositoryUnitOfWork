@@ -14,7 +14,7 @@ Este template consta de las siguientes configuraciones:
 | Métodos         | code          | Descripción                                                   |  Métodos HTTP         |
 | --------------- |:-------------:|:-------------------------------------------------------------:|:---------------------:|
 | Ok()            | 200           |  Respuesta estándar para solicitudes HTTP exitosas.           | PUT, POST, GET        |
-| Created()       | 201           |  La solicitud éxitosa y se ha creado un nuevo recurso         | PUT                   |   
+| Created()       | 201           |  La solicitud éxitosa y se ha creado un nuevo recurso         | POST                   |   
 | NoContent()     | 204           |  La petición se ha completado con éxito pero su respuesta no tiene ningún contenido                                                     | En los métodos de su preferencia  |
 | BadRequest()    | 400           |  Esta respuesta significa que el servidor no pudo interpretar la solicitud dada una sintaxis inválida.                                                             | En los métodos de su preferencia |
 | Unauthorized()  | 401           |  Es necesario autenticar para obtener la respuesta solicitada                                                   | |
