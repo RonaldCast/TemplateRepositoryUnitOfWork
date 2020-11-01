@@ -5,11 +5,10 @@ Este template consta de las siguientes configuraciones:
 
 * NSwagger
 * ILogger configuración de logs.
-* UnitTest
 * AutoMapper
 * Entre Otras 
 
-## Tabla de métodos que retornan códigos de estado http  
+## Tabla de métodos que retornan códigos de estado HTTP 
 
 | Métodos         | code          | Descripción                                                   |  Métodos HTTP         |
 | --------------- |:-------------:|:-------------------------------------------------------------:|:---------------------:|
