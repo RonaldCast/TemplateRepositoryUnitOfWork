@@ -35,9 +35,24 @@ namespace TemplateUnitWorkRepository
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            var connectionString = Configuration.GetConnectionString("dev");
+
             services.AddDbContext<AppDbContext>(options =>
-                    options.UseSqlServer(connectionString));
+                    options.UseSqlServer(Configuration.GetConnectionString("dev"), 
+                    x => x.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)));
+
+            services.AddDbContext<AppIdentityDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("dev"),
+            b => b.MigrationsAssembly(typeof(AppIdentityDbContext).Assembly.FullName)));
+
+            var identityBuilder = services.AddIdentityCore<AppUser>(o =>
+            {
+                // configure identity options
+                o.Password.RequireDigit = false;
+                o.Password.RequireLowercase = false;
+                o.Password.RequireUppercase = false;
+                o.Password.RequireNonAlphanumeric = false;
+                o.Password.RequiredLength = 6;
+            });
 
             //Inject Service Layer
             services.AddScoped<IUserSL, UserSL>();

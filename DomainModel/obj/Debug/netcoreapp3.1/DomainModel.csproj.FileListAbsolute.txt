@@ -1,12 +1,24 @@
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.runtimeconfig.json
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.runtimeconfig.dev.json
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.deps.json
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.dll
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.AssemblyInfo.cs
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.runtimeconfig.json
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.runtimeconfig.dev.json
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.pdb
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.dll
+//Mac/Home/Desktop/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.pdb
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.deps.json
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.runtimeconfig.json
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.runtimeconfig.dev.json
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.dll
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/bin/Debug/netcoreapp3.1/DomainModel.pdb
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.dll
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.pdb
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/DomainModel/obj/Debug/netcoreapp3.1/DomainModel.genruntimeconfig.cache
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.runtimeconfig.json
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.runtimeconfig.dev.json
@@ -16,4 +28,6 @@
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.genruntimeconfig.cache
 \\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache

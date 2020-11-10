@@ -60,30 +60,9 @@ namespace MSUnitTest.ControllersTesting
             Assert.IsInstanceOfType(response, typeof(ActionResult));
             Assert.IsNotNull(response);
 
-            //StatusCode(203, new { Response = "El producto se ha agregado correctamente" });
         }
 
 
-        [TestMethod]
-        public async Task Get_All_Methods()
-        {
-            //ARRAGEN
-            //_mockProductSL.Setup(x => x.GetProductsAsync())
-            //   .Returns(Task.FromResult(ProductStub.ListProduct));
 
-            var m = new ProductController
-                (_mockProductSL.Object,_mockMapper.Object,_mockLogger.Object);
-            //ACT
-
-           var actionResult = await m.Get();
-
-            //ASSERT
-            // result.Result.
-
-            actionResult.Should().Be(ProductStub.ListProduct);
-  
-
-
-        }
     }
 }

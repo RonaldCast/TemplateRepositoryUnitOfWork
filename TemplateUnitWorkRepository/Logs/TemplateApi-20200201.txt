@@ -1,0 +1,5 @@
+2020-02-01T12:00:39.5878904-04:00  [INF] Now listening on: "http://127.0.0.1:15721" (d826f4b8)
+2020-02-01T12:00:39.6627055-04:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-02-01T12:00:39.6655523-04:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-02-01T12:00:39.6698962-04:00  [INF] Content root path: "\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\TemplateUnitWorkRepository" (b5d60022)
+2020-02-01T12:00:40.0675453-04:00 0HLT75VH3GH6T:00000001 [WRN] Failed to determine the https port for redirect. (ca76cc21)

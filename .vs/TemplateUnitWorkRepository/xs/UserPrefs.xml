@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F930BA34-FF93-4071-833E-07C98926335E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemplateUnitWorkRepository/appsettings.json">
+    <Files>
+      <File FileName="MSUnitTest/ControllersTesting/ProductControllerTest.cs" Line="56" Column="50" />
+      <File FileName="MSUnitTest/Stubs/ProductStub.cs" Line="1" Column="1" />
+      <File FileName="MSUnitTest/Stubs/DTOProductStub.cs" Line="1" Column="1" />
+      <File FileName="TemplateUnitWorkRepository/appsettings.json" Line="11" Column="85" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateUnitWorkRepository" expanded="True">
+            <Node name="MSUnitTest" expanded="True" />
+            <Node name="TemplateUnitWorkRepository" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TemplateUnitWorkRepository PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

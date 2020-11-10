@@ -16,3 +16,7 @@
 2020-01-25T18:27:10.0752800-04:00  [INF] Hosting environment: "Development" (c3307c92)
 2020-01-25T18:27:10.0774539-04:00  [INF] Content root path: "\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\TemplateUnitWorkRepository" (b5d60022)
 2020-01-25T18:27:10.1102622-04:00 8000000f-0004-fe00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-01-25T18:45:40.4187863-04:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-01-25T18:45:40.4457742-04:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-01-25T18:45:40.4482948-04:00  [INF] Content root path: "\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\TemplateUnitWorkRepository" (b5d60022)
+2020-01-25T18:45:40.4905938-04:00 80000011-0006-ff00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)

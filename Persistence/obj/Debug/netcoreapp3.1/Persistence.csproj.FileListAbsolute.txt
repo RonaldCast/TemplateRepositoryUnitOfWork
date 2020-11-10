@@ -1,22 +1,35 @@
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\DomainModel.dll
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\DomainModel.pdb
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
-\\Mac\Home\Desktop\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\DomainModel.dll
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\bin\Debug\netcoreapp3.1\DomainModel.pdb
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
-\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.deps.json
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.dll
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.pdb
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/DomainModel.dll
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/DomainModel.pdb
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.csprojAssemblyReference.cache
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfo.cs
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.csproj.CopyComplete
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.dll
+//Mac/Home/Desktop/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.pdb
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.deps.json
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.dll
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.pdb
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/DomainModel.dll
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/DomainModel.pdb
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.csprojAssemblyReference.cache
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfoInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfo.cs
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.csproj.CoreCompileInputs.cache
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.csproj.CopyComplete
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.dll
+/Users/ronaldcastillo/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.pdb
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.deps.json
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.dll
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/Persistence.pdb
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/DomainModel.dll
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/bin/Debug/netcoreapp3.1/DomainModel.pdb
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.csprojAssemblyReference.cache
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfo.cs
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.csproj.CopyComplete
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.dll
+//Mac/Home/Desktop/Doc/Project Code/TemplateUnitWorkRepository/Persistence/obj/Debug/netcoreapp3.1/Persistence.pdb

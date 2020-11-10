@@ -1,0 +1,7 @@
+2020-11-01T00:27:05.1693632-04:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-01T00:27:05.1928133-04:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-01T00:27:05.2119156-04:00  [INF] Content root path: "\\Mac\Home\Desktop\Doc\Project Code\TemplateUnitWorkRepository\TemplateUnitWorkRepository" (b5d60022)
+2020-11-01T00:27:05.3254093-04:00 80000006-0000-fc00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-11-01T00:27:19.2142309-04:00 80000008-0000-fc00-b63f-84710c7967bb [INF] SelectProducto (c74aa186)
+2020-11-01T00:27:19.2176119-04:00 80000008-0000-fc00-b63f-84710c7967bb [INF] Into the productSL (d930c0af)
+2020-11-01T17:07:08.2987597-04:00  [INF] Application is shutting down... (90f52c38)

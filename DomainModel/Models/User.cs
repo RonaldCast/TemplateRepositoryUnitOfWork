@@ -5,15 +5,15 @@ using System.Text;
 
 namespace DomainModel.Models
 {
-    public class User
+    public class User : Entity
     {
-        [Key]
-        [Required]
-        public long Id { get; set; }
-
         [Required]
         [StringLength(255)]
         public string Name { get; set; }
+        public string LastName { get; set; }
+        public string UserName { get; set; }
         public IList<UserProduct> UserProduct { get; set; }
+
+        public string IdentityId { get; set; }
     }
 }

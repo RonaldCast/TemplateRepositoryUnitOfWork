@@ -9,7 +9,7 @@ namespace MSUnitTest.Stubs
     {
         public static DTOProduct NewProduct = new DTOProduct()
         {
-            Name = "Laptop"
+            Name = "Lapto"
         };
 
         public static IEnumerable<DTOProduct> ListProduct = new List<DTOProduct>()
